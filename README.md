@@ -21,5 +21,5 @@ Stochastic Processes in Physics and Chemistry by N.G. Van Kampen (North Holland,
 3. An Invitation to Quantum Channels by Vinayak Jagadish and Francesco Petruccione - https://doi.org/10.12743/quanta.v7i1.77 or https://arxiv.org/abs/1902.00909
 ### Digital Quantum Simulation of Open Quantum Systems
 1. Quantum Computation and Quantum Information by Michael A. Nielsen & Isaac L. Chuang (CUP, 2000/2010)
-2. IBM Q Experience as a versatile experimental testbed for simulating open quantum systems by G García-Pérez, MAC Rossi  & S Maniscalco npj Quantum Inf 6, 1 (2020) -  https://doi.org/10.1038/s41534-019-0235-y or https://arxiv.org/abs/1906.07099
+2. IBM Q Experience as a versatile experimental testbed for simulating open quantum systems by Guillermo García-Pérez, Matteo AC Rossi  & Sabrina Maniscalco npj Quantum Inf 6, 1 (2020) -  https://doi.org/10.1038/s41534-019-0235-y or https://arxiv.org/abs/1906.07099
 3. Open quantum systems with qiskit by Matteo AC Rossi - https://matteoacrossi.github.io/oqs-jupyterbook/
