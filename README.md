@@ -8,6 +8,7 @@ https://quantum.ukzn.ac.za/event/the-11th-chpc-introductory-programming-school-a
 ### General theory
 1. The Theory of Open Quantum Systems by Heinz-Peter Breuer & Francesco Petruccione (OUP 2002/2007)
 2. Open Quantum Systems. An Introduction by Angel Rivas & Susana F. Huelga (Springer, 2012), draft - https://arxiv.org/abs/1104.5242
+3. NITheP Mini-School on Introduction to open quantum systems (Dr G Pleasance) - https://www.youtube.com/playlist?list=PLE9Qrf4CJnRHxa_OwN7xc2bXacnWzCy1x
 ### Stochastic processes
 Stochastic Processes in Physics and Chemistry by N.G. Van Kampen (North Holland, 2007)
 ### Quantum Optics and Stochastic processes
