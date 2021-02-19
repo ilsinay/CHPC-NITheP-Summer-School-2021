@@ -10,7 +10,8 @@ https://quantum.ukzn.ac.za/event/the-11th-chpc-introductory-programming-school-a
 2. Open Quantum Systems. An Introduction by Angel Rivas & Susana F. Huelga (Springer, 2012), draft - https://arxiv.org/abs/1104.5242
 3. NITheP Mini-School on Introduction to open quantum systems (Dr G Pleasance) - https://www.youtube.com/playlist?list=PLE9Qrf4CJnRHxa_OwN7xc2bXacnWzCy1x
 ### Stochastic processes
-Stochastic Processes in Physics and Chemistry by N.G. Van Kampen (North Holland, 2007)
+1. Stochastic Processes in Physics and Chemistry by N.G. Van Kampen (North Holland, 2007)
+2. Stochastic Methods - A Handbook for the Natural and Social Sciences by Crispin Gardiner (Springer, 2009)  
 ### Quantum Optics and Stochastic processes
 1. Quantum Noise: A Handbook of Markovian and Non-Markovian Quantum Stochastic Methods with Applications to Quantum Optics, by Crispin Gardiner by Peter Zoller (Springer, 2004)
 2. Statistical Methods in Quantum Optics 1: Master Equations and Fokker-Planck Equations by Howard J. Carmichael (Springer, 1999)
